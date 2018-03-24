@@ -201,7 +201,7 @@
                         <div class="about-txt widget">
                             <img src="{{Voyager::image(setting('index.logo2'))}}" alt="logo" />
 
-                            <p>{{setting('index.footer_content')}} </p>
+                            <p>{{setting('contact-us.footer_content')}} </p>
 
                             <div class="widgets-social">
                                 <a href="{{setting('index.facebook')}}"> <i class="fa fa-facebook" aria-hidden="true"></i> </a>
